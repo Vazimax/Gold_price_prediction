@@ -32,7 +32,7 @@ data = pd.read_csv('gld_price_data.csv')
 
 # X_train, X_test, Y_train, Y_test = train_test_split(X,Y,test_size=0.15,random_state=2)
 
-# ##### training the model: #####
+# #### training the model: ####
 
 # model = RandomForestRegressor(n_estimators=100)
 
