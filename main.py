@@ -24,7 +24,7 @@ data = pd.read_csv('gld_price_data.csv')
 # sns.heatmap(corr, cbar=True, square=True, fmt='.1f',annot=True,annot_kws={'size':8},cmap='Red')
 # print(corr['GLD'])
 
-##### Splitting the data: #####
+#### Splitting the data: ####
 
 
 # X = data.drop(['Date','GLD'],axis=1)
